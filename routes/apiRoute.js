@@ -1,2 +1,2 @@
 const router = require("express").Router();
-const stored = require("../db/stored");
+const store = require("../db/store");
